@@ -1,0 +1,11 @@
+@font-face{
+	font-faily: 'SEGA LOGO FONT';
+	font-style: normal;
+	font-eight: normal;
+}
+
+h1{
+	font-family: 'sans-serif';
+	font-weight: 200;
+	color: #0ccac4;
+}
